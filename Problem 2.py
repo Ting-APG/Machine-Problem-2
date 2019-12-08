@@ -21,8 +21,6 @@ def ThreePoints(x1,y1,x2,y2,x3,y3):
     F3 = (x3**2+y3**2)*((x2*y1)-(x1*y2))
     F = F1 + F2 + F3
     'Values for D'
-    X = -D/(2*A)
-    Y = -E/(2*A)
     R = sqrt(((D**2)+(E**2)-4*(A*F))/(4*A**2))
     H = D/(2*A)
     K = E/(2*A)
