@@ -31,4 +31,4 @@ def ThreePoints(x1,y1,x2,y2,x3,y3):
     Fequation = F/A
     print("center is ",H,K)
     print('The radiues is ', R)
-    print('The Vector D,E,F'Dequation,Eequation,Fequation)
+    print('The Vector D,E,F',Dequation,Eequation,Fequation)
